@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.8.4",
+    "firebase": "^9.9.1",
+    "react-flip-move": "^3.0.4"
+  }
+}
